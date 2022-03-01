@@ -14,7 +14,7 @@ function DigitalFullStack(Project) {
 
 <div align="center">
 
-<img src="img/img-readme.jpg" alt="Digital Full Stack" width="800"/>
+<img src="Projeto/img/img-readme.jpg" alt="Digital Full Stack" width="800"/>
 
 </div>
 
