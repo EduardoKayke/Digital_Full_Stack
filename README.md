@@ -14,7 +14,7 @@ function DigitalFullStack(Project) {
 
 <div align="center">
 
-<img src="images/gif1.gif" alt="Digital Full Stack" width="800"/>
+<img src="img/img-readme.jpg" alt="Digital Full Stack" width="800"/>
 
 </div>
 
@@ -25,7 +25,6 @@ function DigitalFullStack(Project) {
 > - Autores: 
 >   - [Eduardo Kayke](https://github.com/EduardoKayke "Perfil do Eduardo")
 
-- [Voltar ao perfil do Github.](https://github.com/EduardoKayke "Perfil do Eduardo") 
-- [Meu email.](eduardokaykedasilva@gmail.com "Mande uma mensagem.")
+- [Voltar ao perfil do Github.](https://github.com/EduardoKayke "Perfil do Eduardo")
 
 _Um dia seremos a tecnologia. Biohacking a própria evolução de nós mesmos._
